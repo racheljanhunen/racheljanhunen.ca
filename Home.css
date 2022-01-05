@@ -33,7 +33,7 @@
 .u-section-1 .u-image-1 {
   width: 225px;
   height: 480px;
-  margin: -690px auto 210px 83px;
+  margin: -600px auto 210px 83px;
 }
 
 @media (max-width: 1199px) {
@@ -42,7 +42,8 @@
   }
 
   .u-section-1 .u-image-1 {
-    margin-top: -1246px;
+    /*margin-top: -1246px;*/
+    display: none;
   }
 }
 
